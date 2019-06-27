@@ -15,7 +15,7 @@ function setup() {
   populateYs();
   calculateInitialAngle();
 
-  colourArray.push([255,0,0],[0,255,0]);
+  colourArray.push([255,0,0],[0,255,0]);//rgb colour arrays to iterate through
   stroke(255);
 }
 
